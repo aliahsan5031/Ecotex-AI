@@ -1,0 +1,121 @@
+Fiber,DyeType,Color,EPA,ShadeLevel,Dye Method,Temperature,LiquorRatio,Dye Concentration,Dye Tenacity,Shade %,Dye Residues,NaCl Required,pH,Eco,Eco Score,Eco Rating,Score EPA(20),Score Tenacity(20),Score_Residues(20),Score_NaCl(15),Score Temperature(15),Score DyeType(10)
+Cotton,Reactive,Red,Yes,Light,Batch,90,1:20,1.3,Excellent,1.1,0.5,40,10.1,,74.5,B (Good),20,20,20.0,7.5,0.0,7
+Cotton,Sulfur,Red,No,Light,Semi-continuous,90,1:20,2.7,Poor,1.2,5.4,10,9.6,,21.3,E (Very Poor),0,0,7.2,13.12,0.0,1
+Cotton,Vat,Red,Yes,Light,Semi-continuous,50,1:12,1.4,Good,1.1,1.4,0,11.3,,86.2,A (Excellent),20,12,17.2,15.0,12.0,10
+Cotton,Direct,Blue,Yes,Light,Semi-continuous,70,1:8,3.2,Excellent,1.7,6.1,60,7.1,,58.5,C (Average),20,20,5.8,3.75,6.0,3
+Cotton,Sulfur,Blue,No,Dark,Batch,50,1:12,49.5,Poor,9.3,8.3,70,9.0,,16.3,E (Very Poor),0,0,1.4,1.88,12.0,1
+Cotton,Vat,Blue,No,Medium,Continuous,60,1:10,11.7,Good,4.1,2.0,0,11.2,,62.0,C (Average),0,12,16.0,15.0,9.0,10
+Cotton,Reactive,Black,Yes,Dark,Semi-continuous,60,1:20,22.7,Poor,6.6,1.7,10,10.5,,65.7,C (Average),20,0,16.6,13.12,9.0,7
+Cotton,Direct,Black,Yes,Light,Batch,50,1:20,4.5,Good,1.0,6.3,70,7.3,,54.3,D (Poor),20,12,5.4,1.88,12.0,3
+Cotton,Sulfur,Black,Yes,Dark,Continuous,90,1:20,33.9,Good,8.7,6.1,70,9.1,,40.7,D (Poor),20,12,5.8,1.88,0.0,1
+Cotton,Direct,Yellow,Yes,Dark,Continuous,50,1:10,42.7,Poor,7.1,3.3,70,7.9,,48.3,D (Poor),20,0,11.4,1.88,12.0,3
+Cotton,Reactive,Yellow,No,Dark,Continuous,40,1:8,38.9,Good,7.7,0.9,60,11.0,,56.4,C (Average),0,12,18.64,3.75,15.0,7
+Cotton,Sulfur,Yellow,Yes,Light,Continuous,90,1:12,4.9,Poor,1.6,6.5,20,9.5,,37.2,E (Very Poor),20,0,5.0,11.25,0.0,1
+Cotton,Direct,Navy,Yes,Light,Continuous,80,1:8,3.4,Excellent,1.2,3.6,60,8.0,,60.5,C (Average),20,20,10.8,3.75,3.0,3
+Cotton,Sulfur,Navy,Yes,Medium,Batch,40,1:8,12.3,Poor,4.4,8.9,30,9.9,,45.6,D (Poor),20,0,0.2,9.38,15.0,1
+Cotton,Reactive,Navy,Yes,Light,Semi-continuous,80,1:20,2.7,Excellent,0.8,1.3,40,10.2,,74.9,B (Good),20,20,17.4,7.5,3.0,7
+Cotton,Direct,Green,Yes,Medium,Semi-continuous,40,1:12,5.2,Poor,3.7,5.9,10,7.2,,57.3,C (Average),20,0,6.2,13.12,15.0,3
+Cotton,Vat,Green,No,Light,Semi-continuous,40,1:12,1.3,Poor,0.9,1.9,0,11.2,,56.2,C (Average),0,0,16.2,15.0,15.0,10
+Cotton,Sulfur,Green,Yes,Light,Semi-continuous,80,1:20,2.9,Excellent,1.7,8.0,40,9.9,,53.5,D (Poor),20,20,2.0,7.5,3.0,1
+Cotton,Reactive,Orange,Yes,Medium,Continuous,40,1:8,5.6,Good,4.2,1.7,20,10.9,,81.8,B (Good),20,12,16.6,11.25,15.0,7
+Cotton,Sulfur,Orange,Yes,Light,Batch,70,1:10,2.1,Excellent,0.9,8.6,80,9.4,,47.8,D (Poor),20,20,0.8,0.0,6.0,1
+Cotton,Vat,Orange,Yes,Dark,Batch,40,1:8,47.4,Excellent,9.2,1.1,0,12.0,,97.8,A (Excellent),20,20,17.8,15.0,15.0,10
+Cotton,Sulfur,White,Yes,Medium,Batch,70,1:12,14.3,Good,4.4,5.4,80,9.0,,46.2,D (Poor),20,12,7.2,0.0,6.0,1
+Cotton,Vat,White,Yes,Light,Batch,80,1:20,1.2,Poor,1.0,0.9,0,12.0,,66.6,C (Average),20,0,18.64,15.0,3.0,10
+Cotton,Reactive,White,No,Medium,Semi-continuous,80,1:8,13.5,Poor,2.2,0.6,40,10.1,,36.7,E (Very Poor),0,0,19.24,7.5,3.0,7
+Polyester,Cationic,Red,Yes,Dark,Semi-continuous,100,1:20,34.8,Excellent,6.6,1.5,0,4.1,,78.0,B (Good),20,20,17.0,15.0,0.0,6
+Polyester,Disperse,Red,Yes,Dark,Semi-continuous,90,1:12,31.0,Poor,9.6,2.4,0,4.8,,55.2,C (Average),20,0,15.2,15.0,0.0,5
+Polyester,Acid,Red,No,Light,Continuous,90,1:20,1.9,Excellent,0.9,3.8,0,4.5,,49.4,D (Poor),0,20,10.4,15.0,0.0,4
+Polyester,Disperse,Blue,Yes,Medium,Batch,100,1:20,5.1,Excellent,4.5,1.3,0,5.2,,77.4,B (Good),20,20,17.4,15.0,0.0,5
+Polyester,Acid,Blue,Yes,Dark,Batch,90,1:20,20.4,Good,6.4,2.0,0,3.6,,67.0,C (Average),20,12,16.0,15.0,0.0,4
+Polyester,Cationic,Blue,No,Medium,Batch,100,1:15,7.5,Excellent,4.7,1.1,0,4.9,,58.8,C (Average),0,20,17.8,15.0,0.0,6
+Polyester,Acid,Black,Yes,Light,Batch,95,1:10,4.0,Poor,1.3,2.6,0,4.1,,53.8,D (Poor),20,0,14.8,15.0,0.0,4
+Polyester,Cationic,Black,Yes,Light,Batch,100,1:8,4.3,Excellent,1.4,1.3,0,4.9,,78.4,B (Good),20,20,17.4,15.0,0.0,6
+Polyester,Disperse,Black,Yes,Light,Batch,90,1:12,1.8,Good,0.9,1.0,0,5.4,,70.4,B (Good),20,12,18.44,15.0,0.0,5
+Polyester,Acid,Yellow,Yes,Light,Batch,100,1:12,4.1,Good,1.1,3.2,0,3.5,,62.6,C (Average),20,12,11.6,15.0,0.0,4
+Polyester,Cationic,Yellow,Yes,Dark,Batch,90,1:15,45.5,Poor,9.3,1.4,0,4.8,,58.2,C (Average),20,0,17.2,15.0,0.0,6
+Polyester,Disperse,Yellow,Yes,Medium,Continuous,100,1:10,9.0,Poor,2.8,0.9,0,4.7,,58.6,C (Average),20,0,18.64,15.0,0.0,5
+Polyester,Cationic,Navy,Yes,Dark,Semi-continuous,95,1:10,35.3,Poor,9.9,1.1,0,4.1,,58.8,C (Average),20,0,17.8,15.0,0.0,6
+Polyester,Acid,Navy,Yes,Dark,Continuous,95,1:20,49.4,Excellent,5.6,3.7,0,4.3,,69.6,C (Average),20,20,10.6,15.0,0.0,4
+Polyester,Disperse,Navy,Yes,Light,Continuous,100,1:20,3.7,Excellent,1.9,2.1,0,4.9,,75.8,B (Good),20,20,15.8,15.0,0.0,5
+Polyester,Disperse,Green,Yes,Light,Semi-continuous,90,1:12,3.0,Excellent,1.5,1.4,0,4.8,,77.2,B (Good),20,20,17.2,15.0,0.0,5
+Polyester,Cationic,Green,No,Dark,Continuous,100,1:15,38.7,Poor,9.5,2.2,0,4.2,,36.6,E (Very Poor),0,0,15.6,15.0,0.0,6
+Polyester,Acid,Green,No,Medium,Continuous,90,1:15,12.9,Poor,3.8,2.3,0,3.8,,34.4,E (Very Poor),0,0,15.4,15.0,0.0,4
+Polyester,Cationic,Orange,No,Dark,Continuous,95,1:20,38.2,Poor,8.1,1.2,0,4.7,,38.6,E (Very Poor),0,0,17.6,15.0,0.0,6
+Polyester,Acid,Orange,Yes,Light,Semi-continuous,90,1:8,1.2,Poor,2.0,3.0,0,4.3,,53.0,D (Poor),20,0,14.0,15.0,0.0,4
+Polyester,Disperse,Orange,Yes,Light,Continuous,100,1:15,3.0,Excellent,0.9,1.9,0,5.1,,76.2,B (Good),20,20,16.2,15.0,0.0,5
+Polyester,Disperse,White,No,Light,Batch,100,1:10,4.7,Excellent,0.7,1.0,0,5.0,,58.4,C (Average),0,20,18.44,15.0,0.0,5
+Polyester,Acid,White,No,Medium,Semi-continuous,95,1:20,13.2,Excellent,4.7,2.6,0,4.1,,53.8,D (Poor),0,20,14.8,15.0,0.0,4
+Polyester,Cationic,White,Yes,Dark,Continuous,95,1:12,41.3,Excellent,9.2,1.6,0,4.9,,77.8,B (Good),20,20,16.8,15.0,0.0,6
+Viscose,Sulfur,Red,Yes,Medium,Continuous,60,1:12,8.2,Excellent,3.6,4.7,40,9.3,,66.1,C (Average),20,20,8.6,7.5,9.0,1
+Viscose,Direct,Red,Yes,Medium,Semi-continuous,70,1:15,8.3,Excellent,3.4,3.3,70,7.2,,62.3,C (Average),20,20,11.4,1.88,6.0,3
+Viscose,Reactive,Red,No,Medium,Semi-continuous,80,1:15,9.8,Poor,4.8,0.9,70,10.9,,30.5,E (Very Poor),0,0,18.64,1.88,3.0,7
+Viscose,Sulfur,Blue,Yes,Medium,Batch,70,1:12,11.7,Good,4.4,7.6,80,9.5,,41.8,D (Poor),20,12,2.8,0.0,6.0,1
+Viscose,Direct,Blue,No,Light,Semi-continuous,80,1:20,3.7,Poor,0.6,5.1,80,7.9,,13.8,E (Very Poor),0,0,7.8,0.0,3.0,3
+Viscose,Reactive,Blue,Yes,Light,Batch,70,1:12,2.4,Good,1.8,0.9,70,10.3,,65.5,C (Average),20,12,18.64,1.88,6.0,7
+Viscose,Direct,Black,No,Light,Semi-continuous,60,1:10,3.6,Poor,1.7,6.3,10,8.0,,30.5,E (Very Poor),0,0,5.4,13.12,9.0,3
+Viscose,Reactive,Black,Yes,Light,Batch,50,1:15,3.7,Excellent,1.3,0.8,50,10.2,,83.5,B (Good),20,20,18.84,5.62,12.0,7
+Viscose,Vat,Black,No,Medium,Batch,90,1:8,12.8,Excellent,2.5,1.3,0,12.0,,62.4,C (Average),0,20,17.4,15.0,0.0,10
+Viscose,Reactive,Yellow,Yes,Medium,Semi-continuous,90,1:10,6.0,Poor,4.3,1.8,20,10.6,,54.6,D (Poor),20,0,16.4,11.25,0.0,7
+Viscose,Vat,Yellow,Yes,Dark,Batch,60,1:8,32.7,Excellent,6.7,2.2,0,11.4,,89.6,A (Excellent),20,20,15.6,15.0,9.0,10
+Viscose,Direct,Yellow,Yes,Medium,Batch,70,1:10,9.4,Good,4.2,7.8,50,7.6,,49.0,D (Poor),20,12,2.4,5.62,6.0,3
+Viscose,Sulfur,Navy,Yes,Dark,Semi-continuous,40,1:12,45.9,Good,6.2,6.3,70,9.9,,55.3,C (Average),20,12,5.4,1.88,15.0,1
+Viscose,Vat,Navy,Yes,Medium,Batch,50,1:12,13.0,Good,3.0,2.3,0,11.2,,84.4,B (Good),20,12,15.4,15.0,12.0,10
+Viscose,Direct,Navy,No,Dark,Continuous,50,1:8,23.4,Poor,7.0,5.8,40,7.5,,28.9,E (Very Poor),0,0,6.4,7.5,12.0,3
+Viscose,Sulfur,Green,Yes,Medium,Batch,90,1:10,8.1,Good,3.7,6.4,60,9.2,,42.0,D (Poor),20,12,5.2,3.75,0.0,1
+Viscose,Direct,Green,No,Medium,Semi-continuous,70,1:12,8.1,Good,2.7,6.6,60,7.4,,29.6,E (Very Poor),0,12,4.8,3.75,6.0,3
+Viscose,Vat,Green,No,Light,Semi-continuous,50,1:15,2.1,Excellent,1.4,2.1,0,11.2,,72.8,B (Good),0,20,15.8,15.0,12.0,10
+Viscose,Direct,Orange,Yes,Medium,Batch,90,1:20,6.3,Poor,2.1,3.3,50,7.3,,40.0,D (Poor),20,0,11.4,5.62,0.0,3
+Viscose,Reactive,Orange,No,Dark,Batch,40,1:20,25.0,Good,7.4,1.0,10,10.1,,65.6,C (Average),0,12,18.44,13.12,15.0,7
+Viscose,Sulfur,Orange,Yes,Medium,Continuous,40,1:20,11.3,Poor,2.2,4.7,50,9.4,,50.2,D (Poor),20,0,8.6,5.62,15.0,1
+Viscose,Reactive,White,No,Dark,Continuous,50,1:20,28.3,Excellent,9.5,0.9,70,10.8,,59.5,C (Average),0,20,18.64,1.88,12.0,7
+Viscose,Sulfur,White,No,Medium,Semi-continuous,90,1:8,14.5,Poor,2.6,5.1,20,9.6,,20.1,E (Very Poor),0,0,7.8,11.25,0.0,1
+Viscose,Direct,White,Yes,Light,Batch,40,1:15,2.8,Excellent,1.4,4.5,40,7.1,,74.5,B (Good),20,20,9.0,7.5,15.0,3
+Linen,Vat,Red,Yes,Light,Semi-continuous,90,1:20,3.6,Good,1.9,1.5,0,11.8,,74.0,B (Good),20,12,17.0,15.0,0.0,10
+Linen,Direct,Red,No,Dark,Batch,50,1:8,17.1,Poor,9.0,6.0,50,7.9,,26.6,E (Very Poor),0,0,6.0,5.62,12.0,3
+Linen,Reactive,Red,Yes,Medium,Batch,70,1:12,10.0,Excellent,3.5,0.6,10,10.3,,85.4,A (Excellent),20,20,19.24,13.12,6.0,7
+Linen,Vat,Blue,Yes,Light,Batch,80,1:20,4.8,Excellent,2.0,1.9,0,11.8,,84.2,B (Good),20,20,16.2,15.0,3.0,10
+Linen,Direct,Blue,Yes,Medium,Semi-continuous,90,1:15,14.2,Poor,2.5,5.9,80,7.5,,29.2,E (Very Poor),20,0,6.2,0.0,0.0,3
+Linen,Reactive,Blue,Yes,Light,Continuous,90,1:8,4.4,Good,1.0,1.5,50,10.3,,61.6,C (Average),20,12,17.0,5.62,0.0,7
+Linen,Direct,Black,Yes,Medium,Batch,70,1:20,13.2,Good,2.0,7.3,80,7.3,,44.4,D (Poor),20,12,3.4,0.0,6.0,3
+Linen,Vat,Black,Yes,Medium,Batch,70,1:15,12.6,Excellent,2.6,1.7,0,11.4,,87.6,A (Excellent),20,20,16.6,15.0,6.0,10
+Linen,Reactive,Black,No,Medium,Continuous,90,1:20,13.0,Good,4.1,1.0,10,10.1,,50.6,D (Poor),0,12,18.44,13.12,0.0,7
+Linen,Direct,Yellow,Yes,Light,Batch,50,1:15,4.7,Poor,0.9,6.5,70,7.6,,41.9,D (Poor),20,0,5.0,1.88,12.0,3
+Linen,Vat,Yellow,Yes,Medium,Continuous,70,1:10,14.2,Good,3.5,2.3,0,11.6,,78.4,B (Good),20,12,15.4,15.0,6.0,10
+Linen,Reactive,Yellow,Yes,Light,Continuous,80,1:12,4.3,Good,0.9,0.9,80,10.9,,60.6,C (Average),20,12,18.64,0.0,3.0,7
+Linen,Reactive,Navy,No,Medium,Continuous,60,1:10,14.8,Excellent,2.7,1.1,70,10.4,,55.7,C (Average),0,20,17.8,1.88,9.0,7
+Linen,Vat,Navy,No,Light,Continuous,70,1:15,5.0,Good,1.7,1.9,0,11.7,,59.2,C (Average),0,12,16.2,15.0,6.0,10
+Linen,Direct,Navy,Yes,Light,Continuous,80,1:12,4.5,Poor,1.8,5.2,80,7.5,,33.6,E (Very Poor),20,0,7.6,0.0,3.0,3
+Linen,Reactive,Green,Yes,Dark,Batch,60,1:12,36.8,Good,7.0,0.6,60,10.8,,71.0,B (Good),20,12,19.24,3.75,9.0,7
+Linen,Direct,Green,Yes,Dark,Semi-continuous,70,1:20,16.3,Good,5.3,6.2,50,7.6,,52.2,D (Poor),20,12,5.6,5.62,6.0,3
+Linen,Vat,Green,Yes,Light,Semi-continuous,90,1:8,2.8,Good,1.5,2.3,0,12.0,,72.4,B (Good),20,12,15.4,15.0,0.0,10
+Linen,Reactive,Orange,Yes,Medium,Continuous,80,1:15,10.7,Good,4.4,0.8,20,10.1,,72.1,B (Good),20,12,18.84,11.25,3.0,7
+Linen,Vat,Orange,No,Dark,Continuous,80,1:10,23.1,Excellent,8.2,1.6,0,11.2,,64.8,C (Average),0,20,16.8,15.0,3.0,10
+Linen,Direct,Orange,Yes,Dark,Batch,50,1:8,30.5,Good,6.7,5.9,70,7.7,,55.1,C (Average),20,12,6.2,1.88,12.0,3
+Linen,Direct,White,Yes,Medium,Batch,70,1:20,8.6,Good,2.9,6.5,10,7.1,,59.1,C (Average),20,12,5.0,13.12,6.0,3
+Linen,Vat,White,Yes,Dark,Continuous,90,1:8,46.9,Poor,8.7,2.2,0,11.6,,60.6,C (Average),20,0,15.6,15.0,0.0,10
+Linen,Reactive,White,No,Medium,Batch,50,1:20,7.5,Good,4.3,1.7,30,10.2,,57.0,C (Average),0,12,16.6,9.38,12.0,7
+Blended,Reactive,Red,Yes,Medium,Continuous,50,1:8,14.1,Excellent,3.0,1.1,40,10.4,,84.3,B (Good),20,20,17.8,7.5,12.0,7
+Blended,Direct,Red,Yes,Light,Semi-continuous,60,1:10,2.0,Excellent,1.7,5.4,50,7.5,,64.8,C (Average),20,20,7.2,5.62,9.0,3
+Blended,Sulfur,Red,Yes,Dark,Continuous,50,1:10,45.1,Good,8.6,8.9,60,10.0,,49.0,D (Poor),20,12,0.2,3.75,12.0,1
+Blended,Reactive,Blue,Yes,Medium,Semi-continuous,90,1:12,10.8,Good,4.5,1.9,20,10.4,,66.5,C (Average),20,12,16.2,11.25,0.0,7
+Blended,Disperse,Blue,Yes,Dark,Batch,80,1:12,47.0,Poor,6.1,0.9,0,5.1,,61.6,C (Average),20,0,18.64,15.0,3.0,5
+Blended,Sulfur,Blue,Yes,Medium,Semi-continuous,50,1:8,14.5,Excellent,2.9,6.5,20,9.4,,69.2,C (Average),20,20,5.0,11.25,12.0,1
+Blended,Disperse,Black,Yes,Medium,Continuous,90,1:20,9.2,Excellent,4.2,1.1,0,5.4,,77.8,B (Good),20,20,17.8,15.0,0.0,5
+Blended,Direct,Black,Yes,Medium,Semi-continuous,60,1:8,11.9,Good,2.7,5.2,40,7.6,,59.1,C (Average),20,12,7.6,7.5,9.0,3
+Blended,Reactive,Black,No,Medium,Batch,90,1:12,5.6,Good,2.8,2.0,80,10.5,,35.0,E (Very Poor),0,12,16.0,0.0,0.0,7
+Blended,Reactive,Yellow,No,Dark,Semi-continuous,60,1:10,49.6,Poor,8.9,0.8,40,10.1,,42.3,D (Poor),0,0,18.84,7.5,9.0,7
+Blended,Direct,Yellow,Yes,Dark,Batch,80,1:8,24.7,Good,9.9,7.9,50,7.8,,45.8,D (Poor),20,12,2.2,5.62,3.0,3
+Blended,Sulfur,Yellow,No,Light,Batch,60,1:10,3.4,Poor,0.5,5.3,30,9.1,,26.8,E (Very Poor),0,0,7.4,9.38,9.0,1
+Blended,Sulfur,Navy,Yes,Dark,Batch,80,1:20,18.8,Good,7.5,8.7,10,9.8,,49.7,D (Poor),20,12,0.6,13.12,3.0,1
+Blended,Direct,Navy,No,Dark,Semi-continuous,40,1:8,50.0,Good,9.2,5.1,20,7.5,,49.0,D (Poor),0,12,7.8,11.25,15.0,3
+Blended,Reactive,Navy,Yes,Medium,Semi-continuous,60,1:20,6.5,Poor,2.4,1.4,60,10.9,,57.0,C (Average),20,0,17.2,3.75,9.0,7
+Blended,Sulfur,Green,No,Medium,Semi-continuous,90,1:8,13.5,Good,4.0,7.8,40,9.1,,22.9,E (Very Poor),0,12,2.4,7.5,0.0,1
+Blended,Direct,Green,Yes,Medium,Continuous,70,1:15,9.2,Good,2.3,5.1,50,7.3,,54.4,D (Poor),20,12,7.8,5.62,6.0,3
+Blended,Disperse,Green,No,Medium,Batch,40,1:8,9.3,Good,4.2,1.4,0,4.6,,64.2,C (Average),0,12,17.2,15.0,15.0,5
+Blended,Disperse,Orange,No,Dark,Semi-continuous,70,1:12,45.6,Good,9.7,1.5,0,5.2,,55.0,C (Average),0,12,17.0,15.0,6.0,5
+Blended,Direct,Orange,Yes,Dark,Batch,40,1:20,32.8,Excellent,5.8,5.4,20,7.3,,76.5,B (Good),20,20,7.2,11.25,15.0,3
+Blended,Reactive,Orange,Yes,Medium,Semi-continuous,80,1:10,13.1,Poor,4.5,2.0,10,10.8,,59.1,C (Average),20,0,16.0,13.12,3.0,7
+Blended,Direct,White,Yes,Medium,Semi-continuous,50,1:10,10.7,Good,3.2,3.7,10,7.4,,70.7,B (Good),20,12,10.6,13.12,12.0,3
+Blended,Reactive,White,No,Light,Semi-continuous,70,1:12,1.6,Poor,1.0,1.0,20,10.4,,42.7,D (Poor),0,0,18.44,11.25,6.0,7
+Blended,Sulfur,White,Yes,Light,Batch,40,1:12,2.8,Excellent,1.1,7.0,70,9.0,,61.9,C (Average),20,20,4.0,1.88,15.0,1

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Secrets - never commit your API key
+.env
+
+# Leftovers from the old Chroma-based version
+ecotex_db/
+chroma.sqlite3
+*.bin
+
+# Generated files and app state
+chart.png
+flagged/
+.gradio/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
